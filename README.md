@@ -1,6 +1,6 @@
 ### Hi there 👋
 Thanks for stopping by!\
-I am an IT junior at Posts and Telecommunication Institute of Technology (PTIT) Hanoi and i am looking for an intern position data engineer job.\
+I am an IT junior at Posts and Telecommunication Institute of Technology (PTIT) Hanoi and i am looking for an intern data engineer job.\
 You can see my detail information on my CV.\
 CV: "https://github.com/NQP27/NQP27/blob/main/NguyenQuangPhuoc-DataEngineer-Intern-CV.pdf" \
 Email: phuocquang272@gmail.com
