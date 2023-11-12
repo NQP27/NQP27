@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Thanks for stopping by!
+I am an IT junior at Posts and Telecommunication Institute of Technology (PTIT) Hanoi and i am looking for an intern position data engineer job.
+You can see detail on my CV.
+(https://github.com/NQP27/NQP27/blob/main/NguyenQuangPhuoc-DataEngineer-Intern-CV.pdf)
 <!--
 **NQP27/NQP27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
